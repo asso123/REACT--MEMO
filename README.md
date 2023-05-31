@@ -4,7 +4,7 @@ https://nodejs.org/ko
 설치하기
 ![image](https://github.com/asso123/REACT--MEMO/assets/129017021/91b0c1cb-2202-4498-85a2-e384926b8b2b)
 
-#node.js란 
+# node.js란 
 자바스크립트는 웹브라우저에 내장된 자바스크립트 엔진으로 실행됩니다.
 자바스크립트를 실행하는 웹브라우저를 자바스크립트의 구동환경이라는 뜻에서 서 '자바스크립트 런타임'이라고도 표현합니다.
 한마디로 node.js는 또 하나의 자바스크립트 런타임입니다.
@@ -27,6 +27,8 @@ https://nodejs.org/ko
   cd폴더명
   npm start
  
- #SPA : Single Page Application
+ # SPA : Single Page Application
  페이지는 하나인데 여러개인것처럼 눈속임-> 자바스크립트가 해준다. 페이지를 매번 새로고침할 필요없음
  웹사이트를 모바일앱처럼 사용할 수 있다
+ 
+ 
