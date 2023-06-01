@@ -18,3 +18,9 @@
 
 # 함수 만들기
 ![image](https://github.com/asso123/REACT--MEMO/assets/129017021/ab585c18-3dfd-49c7-911d-5504361b70d8)
+
+ # 화살표 함수로 바꿈
+ 이미지
+ 
+ #함수를 밖으로 빼기
+ ![image](https://github.com/asso123/REACT--MEMO/assets/129017021/9f7579a9-de5f-46d9-97df-0d8229624cc0)
